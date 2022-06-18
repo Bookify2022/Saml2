@@ -156,6 +156,7 @@ class Provider extends AbstractProvider implements SocialiteProvider
             'sp_org_url',
             'sp_default_binding_method',
             'idp_binding_method',
+            'idp_name_id_policy',
             'attribute_map',
         ];
     }
