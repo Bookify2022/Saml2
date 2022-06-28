@@ -15,6 +15,12 @@
             "email": "chrislloyd403@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bookify2022/lightsaml"
+        }
+    ],
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
